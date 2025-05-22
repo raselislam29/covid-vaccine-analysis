@@ -1,5 +1,5 @@
 
-<img src="A_header_image_for_a_data_analysis_project_titled_.png" alt="COVID-19 Analysis Banner" width="100%">
+<img src="visuals/A_header_image_for_a_data_analysis_project_titled_.png" alt="COVID-19 Analysis Banner" width="100%">
 
 
 
