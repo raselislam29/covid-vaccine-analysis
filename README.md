@@ -1,5 +1,5 @@
 
-<img src="visuals/header.png" width="100%">
+<img src="visuals/header" width="100%">
 
 
 
