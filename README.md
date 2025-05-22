@@ -1,5 +1,5 @@
 
-<img src="visuals/covid19" width="100%">
+<img src="visuals/covid19.jpg" width="100%">
 
 
 
